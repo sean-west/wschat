@@ -1,6 +1,6 @@
 ## Basic Websockets Multi-User Chat
 
-*Connect multiple clients in the browser and/or in the terminal to one chat server.*
+*Connect multiple clients in the browser and in the terminal to one chat server.*
 
 
 ## install
