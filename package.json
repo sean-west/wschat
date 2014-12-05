@@ -1,0 +1,9 @@
+{
+  "name": "wschat",
+  "version": "1.0.0",
+  "description": "Websockets Chat",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^0.5.0"
+  }
+}
